@@ -20,7 +20,7 @@ class HaloMassFunction:
             self.aa, self.bb, self.DD, self.EE, self.FF = 1.089, 0.652, 1.0, 0.17, 0.087
 
         else:
-            raise ValueError(f"mdef '{self.mdef}' no válido. Usa 'm200b' o 'mvir'.")
+            raise ValueError(f"mdef '{self.mdef}' not valid. Usa 'm200b'")
     
 
     def RtoM(self, M):
