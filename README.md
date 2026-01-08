@@ -2,13 +2,6 @@
 
 This repository contains the implementation of the Halo Mass Function (HMF) model based on the Fernandez-Garcia et al. (2025) formalism. The code is designed to work with the `Colossus` cosmology toolkit and provides a robust way to calculate halo abundances across different mass ranges and cosmologies.
 
-## Features
-
-- **Custom Sigms Modification**: Implements a modified variance $\sigma_{mod}$ to better capture halo peak statistics.
-- **Flexible Mass Definitions**: Supports `m200b` and `mvir` mass definitions.
-- **Cosmological Integration**: Seamlessly integrates with the `Colossus` library for power spectrum and cosmological parameter handling.
-- **Accurate Numerics**: Uses robust numerical integration for the HMF kernel.
-
 ## Installation
 
 ### Prerequisites
