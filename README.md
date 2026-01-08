@@ -55,8 +55,8 @@ The model implements the following components:
 ## References
 
 If you use this code in your research, please cite:
-*[https://arxiv.org/abs/2512.05847](Fernandez-Garcia+25)*.
+*[Fernandez-Garcia+25](https://arxiv.org/abs/2512.05847)*.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
