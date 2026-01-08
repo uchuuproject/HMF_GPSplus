@@ -55,7 +55,7 @@ The model implements the following components:
 ## References
 
 If you use this code in your research, please cite:
-*Fernandez-Garcia et al. (2025)* (Add full citation details here).
+*[https://arxiv.org/abs/2512.05847](Fernandez-Garcia et al. (2025))*.
 
 ## License
 
